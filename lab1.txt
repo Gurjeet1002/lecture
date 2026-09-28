@@ -1,0 +1,4 @@
+Name=Gurjeet Singh
+Course=b.tech in cse/ai
+Age=18
+
